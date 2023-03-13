@@ -15,3 +15,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Repositories
+
+There are a few basic repos. Feel free to contribute and send in a PR!
+
+- 🙋‍♀️ https://github.com/teleport-cop/.github -- Basic Org readme
+- 🙋‍♀️ https://github.com/teleport-cop/teleport-cop.github.io - The Teleport COP webpage.
