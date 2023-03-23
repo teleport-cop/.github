@@ -22,3 +22,4 @@ There are a few basic repos. Feel free to contribute and send in a PR!
 
 - 🙋‍♀️ https://github.com/teleport-cop/.github -- Basic Org readme
 - 🙋‍♀️ https://github.com/teleport-cop/teleport-cop.github.io - The Teleport COP webpage.
+- 👩‍ https://github.com/teleport-cop/teleport-github-actions-provisioning - Example repo using Github Actions to deploy and tear down temporary EC2 instances!
